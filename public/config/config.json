@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa9c83e197b9fCBe37a922d6b17dB174e349F87fB",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa9c83e197b9fCBe37a922d6b17dB174e349F87fB",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Atomic Pixel Apes",
+  "SYMBOL": "ATPA",
+  "MAX_SUPPLY": 222,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/atomic-pixel-apes-v2",
+  "SHOW_BACKGROUND": true
+}
